@@ -13,7 +13,7 @@
     "require-dir": "^1.2.0"
   },
   "devDependencies": {
-    "mongoose": "^5.7.4",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.3"
   }
 }
